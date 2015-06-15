@@ -8,9 +8,9 @@ Version: '5.4.0'
 Versions:
 - '5.4.0'
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: mfojtik
+Cartridge-Vendor: erreff
 License: GPL
-Vendor: mfojtik
+Vendor: erreff
 Categories:
 - embedded
 - plugin
