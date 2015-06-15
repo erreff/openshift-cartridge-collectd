@@ -21,7 +21,7 @@ Provides:
 Scaling:
   Min: 1
   Max: -1
- Group-Overrides:
+Group-Overrides:
 - components:
   - collectd-5.4.0
   - web_framework
