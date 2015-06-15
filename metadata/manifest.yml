@@ -21,10 +21,9 @@ Provides:
 Scaling:
   Min: 1
   Max: -1
-  
  Group-Overrides:
 - components:
-  - monit-5.8
+  - collectd-5.4.0
   - web_framework
   
 Source-Url: https://github.com/erreff/openshift-cartridge-collectd.git
